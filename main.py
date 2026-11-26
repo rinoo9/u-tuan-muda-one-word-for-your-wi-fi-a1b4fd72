@@ -1,5 +1,16 @@
 """One-word entry for the make.fun bounty "One Word for Your Wi-Fi".
 
+Round 2 entry word is "Houdini". (Round 1 was "Peekaboo"; the notes
+below keep its analysis for the record.)
+
+Why "Houdini" wins the judge's brief: it names the router as an escape
+artist. The signal does not just fade — it escapes, mid-call, mid-video,
+mid-download, then reappears as if nothing happened, and no one can say
+how it got out. The joke needs no explanation, and as a network name it
+is one people would smile at and remember: the Wi-Fi that keeps escaping.
+It is a fresh angle from "Peekaboo": same vanishing act, but a showman
+instead of a children's game.
+
 The entry word is "Peekaboo".
 
 Why this word wins the judge's brief:
@@ -93,7 +104,7 @@ about searching, peekaboo is about reappearing.
 
 import os
 
-ENTRY_WORD = "Peekaboo"
+ENTRY_WORD = "Houdini"
 
 OUTPUT_PATH = "/output/entry.txt"
 
