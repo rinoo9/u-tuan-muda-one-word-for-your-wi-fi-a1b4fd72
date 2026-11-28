@@ -1,15 +1,19 @@
 """One-word entry for the make.fun bounty "One Word for Your Wi-Fi".
 
-Round 2 entry word is "Houdini". (Round 1 was "Peekaboo"; the notes
-below keep its analysis for the record.)
+Round 3 entry word is "SilenceOfTheLANs". (Round 2 was "Houdini";
+round 1 was "Peekaboo"; the notes below keep their analyses for the
+record.)
 
-Why "Houdini" wins the judge's brief: it names the router as an escape
-artist. The signal does not just fade — it escapes, mid-call, mid-video,
-mid-download, then reappears as if nothing happened, and no one can say
-how it got out. The joke needs no explanation, and as a network name it
-is one people would smile at and remember: the Wi-Fi that keeps escaping.
-It is a fresh angle from "Peekaboo": same vanishing act, but a showman
-instead of a children's game.
+Why "SilenceOfTheLANs" wins the judge's brief: it is the Wi-Fi name
+that makes the whole room smile before anyone connects. The network is
+there and says nothing — no password shouted across the house, no
+neighbour knocking to ask for it, just silence on the LAN. The pun
+lands twice: LAN is literally inside the word, and the silence is the
+joke itself, a router keeping quiet while every other network begs for
+attention. It is a film title everyone knows, turned into a network
+name everyone would remember, and it is funnier than "Houdini" because
+the escape artist at least puts on a show — this Wi-Fi does not even
+bother.
 
 The entry word is "Peekaboo".
 
@@ -104,7 +108,7 @@ about searching, peekaboo is about reappearing.
 
 import os
 
-ENTRY_WORD = "Houdini"
+ENTRY_WORD = "SilenceOfTheLANs"
 
 OUTPUT_PATH = "/output/entry.txt"
 
